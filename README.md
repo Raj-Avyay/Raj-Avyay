@@ -4,7 +4,7 @@
 - 💞️ We collaborate on various repositories based on web development...
 - 📫 How to reach us : rajavyay@gmail.com
 
-<img src='https://github-readme-stats.vercel.app/api?username=123452123-codr&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
+<img src='https://github-readme-stats.vercel.app/api?username=Raj-Avyay&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
 
 <br/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Avyay&theme=tokyonight&hide_langs_below=4' align="middle" />
